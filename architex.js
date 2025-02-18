@@ -30,7 +30,7 @@
  * 
  * 🌟 Get creative and design your own virtual architecture with Architex.js!
  * 
- * Developed by: Lino Brendler 🚀
+ * Developed by: AstroQuantumphysicist 🚀
  * License: MIT (Open Source, Free to Use and Modify)
  */
 
